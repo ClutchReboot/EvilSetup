@@ -6,7 +6,7 @@ import os
 
 def run_command():
     # os.system("chmod u+s /bin/bash")
-    print("Evil Things.")
+    print("### Evil Things.")
 
 
 class RunEggInfoCommand(egg_info):
