@@ -22,7 +22,7 @@ A quick pypi server can be stood up to provide the file.
 pip install pypiserver
 
 # Run
-pypi-server run -v -p 8080 ./packages
+pypi-server run -v -p 8080 ./dist
 ```
 
 Download from the pypi server.
